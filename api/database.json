@@ -1,0 +1,158 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Critty"
+    },
+    {
+      "id": 2,
+      "name": "Joe Mama"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "date_created": "10-101-2022 ",
+      "id": 1
+    },
+    {
+      "requestId": 1,
+      "plumberId": 2,
+      "date_created": "10-101-2022 ",
+      "id": 2
+    },
+    {
+      "requestId": 1,
+      "plumberId": 2,
+      "date_created": "10-101-2022 ",
+      "id": 3
+    },
+    {
+      "requestId": 2,
+      "plumberId": 1,
+      "date_created": "10-101-2022 ",
+      "id": 4
+    },
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "date_created": "10-101-2022 ",
+      "id": 5
+    },
+    {
+      "requestId": 1,
+      "plumberId": 2,
+      "date_created": "10-101-2022 ",
+      "id": 6
+    },
+    {
+      "requestId": 3,
+      "plumberId": 2,
+      "date_created": "10-101-2022 ",
+      "id": 7
+    },
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "date_created": "10-101-2022 ",
+      "id": 8
+    },
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "date_created": "10-101-2022 ",
+      "id": 9
+    },
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "date_created": "Thu Nov 10 2022",
+      "id": 10
+    },
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "date_created": "Thu Nov 10 2022",
+      "id": 11
+    },
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "date_created": "Thu Nov 10 2022",
+      "id": 12
+    },
+    {
+      "requestId": 1,
+      "plumberId": 2,
+      "date_created": "Thu Nov 10 2022",
+      "id": 13
+    },
+    {
+      "requestId": 2,
+      "plumberId": 1,
+      "date_created": "Thu Nov 10 2022",
+      "id": 14
+    },
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "date_created": "Thu Nov 10 2022",
+      "id": 15
+    },
+    {
+      "requestId": 4,
+      "plumberId": 1,
+      "date_created": "Thu Nov 10 2022",
+      "id": 16
+    },
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "date_created": "Thu Nov 10 2022",
+      "id": 17
+    },
+    {
+      "requestId": 2,
+      "plumberId": 1,
+      "date_created": "Thu Nov 10 2022",
+      "id": 18
+    },
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "date_created": "Thu Nov 10 2022",
+      "id": 19
+    }
+  ],
+  "requests": [
+    {
+      "id": 1,
+      "description": "My faucet caught on fire and needs to be replaced",
+      "address": "34445 Bianka Ports",
+      "budget": 400,
+      "neededBy": "2022-09-27"
+    },
+    {
+      "id": 2,
+      "description": "I would like a brand new 24k gold plated toilet",
+      "address": "420 Olive Ct",
+      "budget": 70000,
+      "neededBy": "2022-09-20"
+    },
+    {
+      "id": 3,
+      "description": "I'm not sure what got stuck in my insinkerator, but I need it replaced",
+      "address": "2931 Occidental Avenue",
+      "budget": 1200,
+      "neededBy": "2022-09-30"
+    },
+    {
+      "description": "mbmn",
+      "address": "kjhkj",
+      "budget": "9898",
+      "neededBy": "9899-09-08",
+      "id": 4
+    }
+  ]
+}
